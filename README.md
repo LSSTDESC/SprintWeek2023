@@ -1,4 +1,4 @@
-# SprintWeek2023
+# Sprint Week 2023, October 16th-20th 2023 @ Carnegie Mellon University
 Meeting repository for the LSST DESC 2023 Sprint Week
 
 Check the <a href="https://github.com/LSSTDESC/SprintWeek2023/issues">issue page</a> to see the list of sprints.
